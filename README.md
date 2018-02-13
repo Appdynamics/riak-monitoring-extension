@@ -183,7 +183,7 @@ Find out more in the [Community][].
 
 For any questions or feature request, please contact [AppDynamics Center of Excellence][].
 
-**Version:** 1.0
+**Version:** 1.0.5
 **Controller Compatibility:** 3.7 or later
 **Riak version tested on:** 1.4.8 
 
